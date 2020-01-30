@@ -1,4 +1,4 @@
-name := "assignment-scala01-1"
+name := "assignment-scala1"
 
 version := "0.1"
 
